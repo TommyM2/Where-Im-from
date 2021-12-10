@@ -15,6 +15,22 @@
   <li><a href="https://th.bing.com/th/id/OIP.5qZB_YRN2ILP2neFO3e7kQHaLs?pid=ImgDet&rs=1">IT Careers</a></li>
   <li><a href="http://3mkm08kox71vtynw1b1wbtpab.wpengine.netdna-cdn.com/wp-content/uploads/2012/10/avg_salaries_graph_oct9.png">Computer Science Careers</a></li>
 </ul>  
+Heres a simple code:
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>This is a random decimal number generator. Pretty cool right!</h2>
+
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = Math.random();
+</script>
+
+</body>
+</html>
 </body>
 </html>
