@@ -37,5 +37,16 @@ document.getElementById("demo").innerHTML = Math.random();
 
 </body>
 </html>
+<p>Links:
+
+<p>Page 1:<a href="C:\Users\mtsqu\AppData\Local\Temp\Temp1_Where-Im-from-main (3).zip\Where-Im-from-main\Where Im from/">Where I'm From</a></p>
+
+<p>Page 2:<a href="C:\Users\mtsqu\AppData\Local\Temp\Temp1_Where-Im-from-main (3).zip\Where-Im-from-main\Sports/">Sports</a>
+
+<p>Page 3:<a href="C:\Users\mtsqu\AppData\Local\Temp\Temp1_Where-Im-from-main (3).zip\Where-Im-from-main\college major/">College Major</a>
+
+<p>Page 4:<a href="C:\Users\mtsqu\AppData\Local\Temp\Temp1_Where-Im-from-main (3).zip\Where-Im-from-main\Hobbies/">Hobbies</a>
+
+<p>Page 5:<a href="C:\Users\mtsqu\AppData\Local\Temp\Temp1_Where-Im-from-main (3).zip\Where-Im-from-main\goals/">Goals and Dreams!</a></p>
 </body>
 </html>
