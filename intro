@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+<h1>About me</h1>
+<p>Hey y'all, my name is Tommy Martin.
+
+<p>Today I have something special I want to show you guys. Im going to be presenting a presentaion about my self. For example, I'm going to be talking about where I'm from, my hobbies, my sprt life, my major and why I chose it, and by goals that I want to accomplish in life.
+
+<p>Its going to be very fun so grab some popcorn and get confortable. Dont worry, I'm not going to make my presentation that long, but its not going to be short either. It's definately not going to be boring.
+
+<p>The goal is to just learn more about me. So with that be said...
+
+<p>LETS GOO!!!
+
+<p>Links:
+
+<p>Page 1:<a href="C:\Users\mtsqu\AppData\Local\Temp\Temp1_Where-Im-from-main (3).zip\Where-Im-from-main\Where Im from/">Where I'm From</a></p>
+
+<p>Page 2:<a href="C:\Users\mtsqu\AppData\Local\Temp\Temp1_Where-Im-from-main (3).zip\Where-Im-from-main\Sports/">Sports</a>
+
+<p>Page 3:<a href="C:\Users\mtsqu\AppData\Local\Temp\Temp1_Where-Im-from-main (3).zip\Where-Im-from-main\college major/">College Major</a>
+
+<p>Page 4:<a href="C:\Users\mtsqu\AppData\Local\Temp\Temp1_Where-Im-from-main (3).zip\Where-Im-from-main\Hobbies/">Hobbies</a>
+
+<p>Page 5:<a href="C:\Users\mtsqu\AppData\Local\Temp\Temp1_Where-Im-from-main (3).zip\Where-Im-from-main\goals/">Goals and Dreams!</a></p>
+
+</body>
+</html>
